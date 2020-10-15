@@ -5,7 +5,7 @@ Ark is a static website generator written in Python. It transforms a
 directory of text files into a self-contained website that can be viewed
 locally or served remotely.
 
-* Ark is extensible. It has builtin support for source files written
+* Ark is extensible. It has a built in support for source files written
   in [Markdown][] and [Syntex][], but can be extended via plugins to support
   any similar text-to-html format.
 
